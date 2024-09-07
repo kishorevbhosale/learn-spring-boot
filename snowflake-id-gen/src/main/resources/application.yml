@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+sequencer:
+  node-id: 1
